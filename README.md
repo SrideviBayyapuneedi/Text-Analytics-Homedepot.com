@@ -9,3 +9,5 @@ One of the ways which retailers use to measure relevance between search and prod
 Therefore, many online retailers are working on a relevance model that would be better at mimicking the human understanding and comparing process, and predicting the relevance score of search/product pairs. The process of comparison and scoring is a nonlinear process. Therefore, a nonlinear model, such as a deep learning model, can be used for the relevance scoring.
 
 The first step in building such a relevance model is to build some vectors to represent this product information. The natural way to implement it is to use word-vector representation, and then aggregate the vectors coming from all the words in description and attribute terms or search terms into a single vector. The next step in the relevance model is to give a relevance score based on the search vector and product vector.
+
+All relevant files to be uploaded soon
